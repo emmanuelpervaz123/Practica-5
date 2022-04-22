@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/elite/OneDrive/Escritorio/Practica5_a170120/1.xsl"?>
+<automoviles>
+<auto>
+<agencia>Chevrolet</agencia>
+<modelo>Suburban</modelo>
+</auto>
+<auto>
+<agencia>Ford</agencia>
+<modelo>Lobo</modelo>
+</auto>
+<auto>
+<agencia>VollsKwagen</agencia>
+<modelo>Jetta</modelo>
+</auto>
+</automoviles>
